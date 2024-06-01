@@ -28,5 +28,6 @@
 * Q：游戏退出
 ### 说明
 本项目为C++代码练习，旨在熟悉语法和编译过程。  
+structure.xlsx文档旨在方便查询方块位置，可以利用该表格制作游戏布局。  
 绘制游戏边界使用了ANSI控制码，其详细信息参考：https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797  
 不同类型的方块命名，游戏方式参考网站：https://harddrop.com/wiki/Tetris_Wiki  
