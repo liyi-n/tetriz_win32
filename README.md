@@ -1,5 +1,7 @@
 # 俄罗斯方块小游戏
 * 一个基于C++语言的俄罗斯方块游戏，采用CMake进行编译。程序编写在Ubuntu系统下进行，此为程序编写后进行兼容性调整的版本
+  ![0001-0557-ezgif com-video-to-gif-converter](https://github.com/liyi-n/tetriz_win32/assets/153268142/b12fe6cd-466b-4985-8dc2-461a5f1ce5b9)
+
 -----------------------------
 ## 游戏界面
 ![Snipaste_2024-06-01_21-07-19](https://github.com/liyi-n/tetriz_win32/assets/153268142/35e0fced-8c8f-4cc0-bbc2-67061670bc6a)
